@@ -1,1 +1,1 @@
-# hotelmanagementsystem
+# hotel_management_system
